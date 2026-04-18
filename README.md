@@ -1,6 +1,6 @@
 # MineColonies × MTR Integration
  
-> **Статус: MVP / Early Development**
+> **MVP / Early Development**
 > Сабмод связывает систему навигации жителей [MineColonies](https://www.minecolonies.com/) с транспортной сетью [Minecraft Transit Railway (MTR)](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway), позволяя NPC использовать поезда для дальних перемещений.
  
 ![Preview](preview.png)
@@ -100,14 +100,4 @@ MTR-with-Minecolonies-submob/
 - [ ] **Распределение мест в вагоне** — уменьшение наложения NPC друг на друга.
 - [ ] **Аварийные сценарии** — обработка случаев, когда маршрут становится невалидным в процессе поездки.
 ---
- 
-## 🤝 Вклад в проект
- 
-Pull Request'ы приветствуются. Перед отправкой убедитесь, что:
-- Код компилируется без ошибок (`./gradlew build`)
-- Изменения не ломают существующую стейт-машину поездки
-- Новая функциональность сопровождается описанием в PR
----
- 
-## 📄 Лицензия
  
