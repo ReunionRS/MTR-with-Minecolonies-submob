@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: minecolonies_mtr_integration
+Specification-Vendor: You
+Specification-Version: 1
+Implementation-Title: minecolonies-mtr-integration
+Implementation-Version: 0.1.0
+Implementation-Vendor: You
+MixinConfigs: minecolonies_mtr_integration.mixins.json
+

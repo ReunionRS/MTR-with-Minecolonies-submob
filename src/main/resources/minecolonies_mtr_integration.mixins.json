@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.minecoloniesmtr.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "minecolonies_mtr_integration.refmap.json",
+  "mixins": [
+    "TrainServerMixin"
+  ],
+  "client": [],
+  "server": []
+}
